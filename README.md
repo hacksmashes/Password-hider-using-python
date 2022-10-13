@@ -4,4 +4,4 @@ It's just for security purpose only, If you are doing project in that u need to 
 Modules used:
   - getpass
   
-For more details please refer: @python_projects_
+For more details please refer: https://www.instagram.com/hack_smashes/
